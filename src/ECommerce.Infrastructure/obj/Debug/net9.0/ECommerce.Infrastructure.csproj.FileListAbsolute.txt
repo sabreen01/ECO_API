@@ -1,0 +1,16 @@
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Infrastructure.deps.json
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Infrastructure.dll
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Infrastructure.pdb
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Domain.dll
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Domain.pdb
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.AssemblyInfo.cs
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.sourcelink.json
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerc.B0B31267.Up2Date
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.dll
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/refint/ECommerce.Infrastructure.dll
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.pdb
+/Users/mawi/RiderProjects/EcommerceAPI/src/ECommerce.Infrastructure/obj/Debug/net9.0/ref/ECommerce.Infrastructure.dll
